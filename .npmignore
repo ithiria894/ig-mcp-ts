@@ -1,6 +1,5 @@
-node_modules/
-dist/
-.env
-*.log
 .mcpregistry_github_token
 .mcpregistry_registry_token
+src/
+tsconfig.json
+*.tgz
